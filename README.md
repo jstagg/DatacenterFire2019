@@ -17,7 +17,7 @@ In July 2019, the S.P. Richards Co. Atlanta warehouse, headquarters & data cente
 3. It will change you.
 
 ### 10. Pee First
-I grew up around volunteer firefighters and would sometimes find myself responding with them. As a trained first responder, that was sometimes helpful. When the alarm rings in a firehouse, the first trip is to pee because you may not have a chance for hours. It's a simple, meditative act that goes along with the axiom that ["paramedics don't run."](https://medium.com/the-innovation/paramedics-dont-run-what-i-ve-learned-from-over-a-decade-as-a-paramedic-90617af54fbc)
+I grew up around volunteer firefighters and would sometimes find myself responding with them. As a trained first responder, that was sometimes helpful. When the alarm rings in a firehouse, the first trip is to pee because you may not have a chance for hours. It's a simple, meditative act that goes along with the axiom that ["paramedics don't run."](https://medium.com/the-innovation/paramedics-dont-run-what-i-ve-learned-from-over-a-decade-as-a-paramedic-90617af54fbc). [Most of us over-estimate how we will handle a crisis.](https://www.webmd.com/balance/features/crisis-how-would-you-respond#1) Start by giving yourself a small edge.
 
 ### 9. Complexity Fails Fast
 When work begins in crisis mode, simplicity saves time and dollars. A Boeing 747-400 [Normal Procedures Checklst](https://www.onebag.com/popups/747checklist.pdf) fits on 2.5 pages. If there's a DR plan in your quiver (there is, right? please say yes!) that requires careful, delicate handling of multiple dependencies, failure is right around the corner. Once the crisis starts, it's too late to simplify. So simplify now!
