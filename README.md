@@ -14,7 +14,7 @@ In July 2019, the S.P. Richards Co. Atlanta warehouse, headquarters & data cente
 4. Don't cheap out.
 3. Over-communicate, but *only* to management.
 2. When someone says "go home," listen.
-3. It will change you.
+1. It will change you.
 
 ### 10. Pee First
 I grew up around volunteer firefighters and would sometimes find myself responding with them. As a trained first responder, that was sometimes helpful. When the alarm rings in a firehouse, the first trip is to pee because you may not have a chance for hours. It's a simple, meditative act that goes along with the axiom that ["paramedics don't run."](https://medium.com/the-innovation/paramedics-dont-run-what-i-ve-learned-from-over-a-decade-as-a-paramedic-90617af54fbc). [Most of us over-estimate how we will handle a crisis.](https://www.webmd.com/balance/features/crisis-how-would-you-respond#1) Start by giving yourself a small edge.
