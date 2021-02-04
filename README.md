@@ -5,6 +5,8 @@ What I learned from a "total loss" data center fire in July 2019
 In July 2019, the S.P. Richards Co. Atlanta warehouse, headquarters & data center burned down. No one was hurt in what was the biggest fire in the history of the City of Smyrna, Georgia. It's a remarkable first-hand experience. The story and perspective is entirely my own as a manager during the event.
 
 ## Top 10 Things I Learned
+Num | Thing
+-----------
 10 | Pee first.
  9 | Complexity fails fast.
  8 | "Everyone knew..." is BS
