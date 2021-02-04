@@ -5,16 +5,16 @@ What I learned from a "total loss" data center fire in July 2019
 In July 2019, the S.P. Richards Co. Atlanta warehouse, headquarters & data center burned down. No one was hurt in what was the biggest fire in the history of the City of Smyrna, Georgia. It's a remarkable first-hand experience. The story and perspective is entirely my own as a manager during the event.
 
 ## Top 10 Things I Learned
-10. | Pee first.
- 9. | Complexity fails fast.
- 8. | "Everyone knew..." is BS
- 7. | Use physical cards even if you use lists.
- 6. | Your Plan B needs a Plan C through Z and so on
- 5. | Ask "how are you" and then listen.
- 4. | Don't cheap out.
- 3. | Over-communicate, but *only* to management.
- 2. | When someone says "go home," listen.
- 1. | It will change you.
+10 | Pee first.
+ 9 | Complexity fails fast.
+ 8 | "Everyone knew..." is BS
+ 7 | Use physical cards even if you use lists.
+ 6 | Your Plan B needs a Plan C through Z and so on
+ 5 | Ask "how are you" and then listen.
+ 4 | Don't cheap out.
+ 3 | Over-communicate, but *only* to management.
+ 2 | When someone says "go home," listen.
+ 1 | It will change you.
 
 ### 10. Pee First
 I grew up around volunteer firefighters and would sometimes find myself responding with them. As a trained first responder, that was sometimes helpful. When the alarm rings in a firehouse, the first trip is to pee because you may not have a chance for hours. It's a simple, meditative act that goes along with the axiom that ["paramedics don't run."](https://medium.com/the-innovation/paramedics-dont-run-what-i-ve-learned-from-over-a-decade-as-a-paramedic-90617af54fbc). [Most of us over-estimate how we will handle a crisis.](https://www.webmd.com/balance/features/crisis-how-would-you-respond#1) Start by giving yourself a small edge.
